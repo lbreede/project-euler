@@ -12,7 +12,7 @@ def is_prime(num):
         num: The number to be checked. Preferably an integer.
 
     Returns:
-        A boolean whether the parsed number is a prime (True) or not (False).
+        Boolean whether the parsed number is a prime number (True) or not (False).
     """
     if num == 2:
         return True
