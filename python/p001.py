@@ -1,4 +1,4 @@
-def findMultiples(inputdata):
+def find_multiples(inputdata):
     multiples = []
     for x in range(1, inputdata):
         if x % 3 == 0 or x % 5 == 0:
@@ -6,5 +6,5 @@ def findMultiples(inputdata):
 
     return sum(multiples)
 
-sumOfMultiples = findMultiples(1000)
-print(sumOfMultiples)
+sum_of_multiples = find_multiples(1000)
+print(sum_of_multiples)
