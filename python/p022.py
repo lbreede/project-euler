@@ -1,3 +1,9 @@
+#
+# Solution to Project Euler Problem 22
+# Copyright (c) Lennart Breede. All rights reserved.
+# https://github.com/lbreede/project-euler
+#
+
 ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 with open("p022_names.txt") as f:

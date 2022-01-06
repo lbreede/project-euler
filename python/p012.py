@@ -1,3 +1,9 @@
+#
+# Solution to Project Euler Problem 12
+# Copyright (c) Lennart Breede. All rights reserved.
+# https://github.com/lbreede/project-euler
+#
+
 def triangle(n):
 	t = 0
 	for i in range(n):

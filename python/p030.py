@@ -1,3 +1,9 @@
+#
+# Solution to Project Euler Problem 30
+# Copyright (c) Lennart Breede. All rights reserved.
+# https://github.com/lbreede/project-euler
+#
+
 result = 0
 for i in range(2, 200000):
 	digits = list(map(int, str(i)))

@@ -1,3 +1,9 @@
+#
+# Solution to Project Euler Problem 36
+# Copyright (c) Lennart Breede. All rights reserved.
+# https://github.com/lbreede/project-euler
+#
+
 from math import floor
 
 def is_palindrome(a):

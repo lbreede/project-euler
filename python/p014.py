@@ -1,3 +1,9 @@
+#
+# Solution to Project Euler Problem 14
+# Copyright (c) Lennart Breede. All rights reserved.
+# https://github.com/lbreede/project-euler
+#
+
 starting_number = 0
 longest_chain = 0
 

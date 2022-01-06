@@ -1,3 +1,9 @@
+#
+# Solution to Project Euler Problem 8
+# Copyright (c) Lennart Breede. All rights reserved.
+# https://github.com/lbreede/project-euler
+#
+
 from math import prod
 
 num = int("\

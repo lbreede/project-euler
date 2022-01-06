@@ -1,3 +1,9 @@
+#
+# Solution to Project Euler Problem 48
+# Copyright (c) Lennart Breede. All rights reserved.
+# https://github.com/lbreede/project-euler
+#
+
 def self_powers(start, end):
 	a = 0
 	for i in range(start, end+1):

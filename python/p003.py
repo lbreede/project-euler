@@ -1,3 +1,9 @@
+#
+# Solution to Project Euler Problem 3
+# Copyright (c) Lennart Breede. All rights reserved.
+# https://github.com/lbreede/project-euler
+#
+
 start = 600851475143.0
 divisor = 2
 

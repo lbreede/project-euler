@@ -1,3 +1,9 @@
+#
+# Solution to Project Euler Problem 7
+# Copyright (c) Lennart Breede. All rights reserved.
+# https://github.com/lbreede/project-euler
+#
+
 from utils import math_functions as mf
 
 i = 2

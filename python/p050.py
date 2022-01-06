@@ -1,3 +1,9 @@
+#
+# Solution to Project Euler Problem 50
+# Copyright (c) Lennart Breede. All rights reserved.
+# https://github.com/lbreede/project-euler
+#
+
 from utils.math_functions import is_prime
 
 primes = []

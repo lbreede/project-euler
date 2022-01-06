@@ -1,3 +1,9 @@
+#
+# Solution to Project Euler Problem 39
+# Copyright (c) Lennart Breede. All rights reserved.
+# https://github.com/lbreede/project-euler
+#
+
 # Integer right triangles
 
 from math import sqrt

@@ -1,3 +1,9 @@
+#
+# Solution to Project Euler Problem 34
+# Copyright (c) Lennart Breede. All rights reserved.
+# https://github.com/lbreede/project-euler
+#
+
 # Digit factorials
 
 from math import factorial
