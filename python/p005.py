@@ -1,9 +1,3 @@
-#
-# Solution to Project Euler Problem 5
-# Copyright (c) Lennart Breede. All rights reserved.
-# https://github.com/lbreede/project-euler
-#
-
 smallestEvenlyDivisible = 20.0
 max_value = 20
 

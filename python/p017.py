@@ -1,9 +1,3 @@
-#
-# Solution to Project Euler Problem 17
-# Copyright (c) Lennart Breede. All rights reserved.
-# https://github.com/lbreede/project-euler
-#
-
 from math import floor
 
 conversion = {1: "one", 2: "two", 3: "three", 4: "four", 5: "five", 6: "six",

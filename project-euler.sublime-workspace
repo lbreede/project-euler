@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"c",
+				"curr_year"
+			],
+			[
+				"MO",
+				"MONTHS"
+			],
+			[
+				"mon",
+				"month_dict"
+			],
+			[
+				"J",
+				"June"
+			],
+			[
 				"pr",
 				"prime2"
 			],
@@ -340,10 +356,6 @@
 				"prev_letter"
 			],
 			[
-				"c",
-				"criteria1"
-			],
-			[
 				"PUZ",
 				"PUZZLE_INPUT"
 			],
@@ -502,18 +514,6 @@
 			[
 				"get",
 				"get_weighted_sum"
-			],
-			[
-				"ma",
-				"magic_dict"
-			],
-			[
-				"w",
-				"walk"
-			],
-			[
-				"k",
-				"key_list"
 			]
 		]
 	},
@@ -610,21 +610,36 @@
 	],
 	"file_history":
 	[
-		"/C/Users/lbreede/repos/project-euler/python/p043.py",
-		"/C/Users/lbreede/repos/project-euler/python/p034.py",
-		"/C/Users/lbreede/repos/project-euler/python/p050.py",
-		"/C/Users/lbreede/repos/project-euler/python/p039.py",
+		"/C/Users/lbreede/repos/project-euler/python/p019.py",
+		"/C/Users/lbreede/repos/project-euler/python/p011.py",
+		"/C/Users/lbreede/repos/project-euler/python/p012.py",
 		"/C/Users/lbreede/repos/project-euler/python/p013.py",
 		"/C/Users/lbreede/repos/project-euler/python/p014.py",
-		"/C/Users/lbreede/repos/project-euler/python/p013_input.txt",
-		"/C/Users/lbreede/repos/project-euler/python/p036.py",
-		"/C/Users/lbreede/repos/project-euler/python/p012.py",
-		"/C/Users/lbreede/repos/project-euler/python/p044.py",
-		"/C/Users/lbreede/Creative Cloud Files/Main Title Design with Ash Thorp/1. Analyzing Titles/American Gods/American-Gods-Description.md",
-		"/C/Users/lbreede/repos/project-euler/python/p030.py",
-		"/C/Users/lbreede/repos/project-euler/python/p048.py",
-		"/C/Users/lbreede/repos/project-euler/python/p022_names.txt",
+		"/C/Users/lbreede/repos/project-euler/python/p016.py",
+		"/C/Users/lbreede/repos/project-euler/python/p017.py",
 		"/C/Users/lbreede/repos/project-euler/python/p022.py",
+		"/C/Users/lbreede/repos/project-euler/python/p030.py",
+		"/C/Users/lbreede/repos/project-euler/python/p034.py",
+		"/C/Users/lbreede/repos/project-euler/python/p036.py",
+		"/C/Users/lbreede/repos/project-euler/python/p039.py",
+		"/C/Users/lbreede/repos/project-euler/python/p043.py",
+		"/C/Users/lbreede/repos/project-euler/python/p044.py",
+		"/C/Users/lbreede/repos/project-euler/python/p048.py",
+		"/C/Users/lbreede/repos/project-euler/python/p050.py",
+		"/C/Users/lbreede/repos/project-euler/python/p010.py",
+		"/C/Users/lbreede/repos/project-euler/python/p007.py",
+		"/C/Users/lbreede/repos/project-euler/python/p009.py",
+		"/C/Users/lbreede/repos/project-euler/python/p006.py",
+		"/C/Users/lbreede/repos/project-euler/python/p005.py",
+		"/C/Users/lbreede/repos/project-euler/python/p004.py",
+		"/C/Users/lbreede/repos/project-euler/python/p003.py",
+		"/C/Users/lbreede/repos/project-euler/python/utils/copywrite.py",
+		"/C/Users/lbreede/repos/project-euler/python/p001.py",
+		"/C/Users/lbreede/repos/project-euler/python/p008.py",
+		"/C/Users/lbreede/repos/project-euler/python/p002.py",
+		"/C/Users/lbreede/repos/project-euler/python/p013_input.txt",
+		"/C/Users/lbreede/Creative Cloud Files/Main Title Design with Ash Thorp/1. Analyzing Titles/American Gods/American-Gods-Description.md",
+		"/C/Users/lbreede/repos/project-euler/python/p022_names.txt",
 		"/C/Users/lbreede/repos/project-euler/python/utils/math_functions.py",
 		"/C/Users/lbreede/repos/project-euler/python/p0016.py",
 		"/C/Users/lbreede/repos/project-euler/python/p0017.py",
@@ -722,22 +737,7 @@
 		"/C/Users/lbreede/repos/advent-of-code/.gitignore",
 		"/C/Users/lbreede/repos/advent-of-code/.gitattributes",
 		"/C/Users/lbreede/repos/advent-of-code/2021/day_12.py",
-		"/C/Users/lbreede/repos/advent-of-code/2015/7/main.py",
-		"/C/Users/lbreede/repos/advent-of-code/2020/aoc_helper/create_template.py",
-		"/C/Users/lbreede/repos/advent-of-code/2021/rename.py",
-		"/C/Users/lbreede/repos/advent-of-code/2021/rename_py_files.py",
-		"/C/Users/lbreede/repos/advent-of-code/2020/day04.py",
-		"/C/Users/lbreede/repos/advent-of-code/2020/day03.py",
-		"/C/Users/lbreede/repos/advent-of-code/2020/day02.py",
-		"/C/Users/lbreede/repos/advent-of-code/2020/day01.py",
-		"/C/Users/lbreede/repos/advent-of-code/2020_old/4/main.py",
-		"/C/Users/lbreede/repos/advent-of-code/2020_old/3/main.py",
-		"/C/Users/lbreede/repos/advent-of-code/2020_old/2/main2.py",
-		"/C/Users/lbreede/repos/advent-of-code/2020_old/1/main2.py",
-		"/C/Users/lbreede/repos/advent-of-code/LICENSE",
-		"/C/Users/lbreede/repos/advent-of-code/python/2017/day06_input.txt",
-		"/C/Users/lbreede/repos/advent-of-code/python/2017/day06_example.txt",
-		"/C/Users/lbreede/repos/advent-of-code/python/2017/aoc_helper/__init__.py"
+		"/C/Users/lbreede/repos/advent-of-code/2015/7/main.py"
 	],
 	"find":
 	{

@@ -1,9 +1,3 @@
-#
-# Solution to Project Euler Problem 44
-# Copyright (c) Lennart Breede. All rights reserved.
-# https://github.com/lbreede/project-euler
-#
-
 from tqdm import tqdm
 
 def pentagonal(n):

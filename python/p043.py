@@ -1,9 +1,3 @@
-#
-# Solution to Project Euler Problem 43
-# Copyright (c) Lennart Breede. All rights reserved.
-# https://github.com/lbreede/project-euler
-#
-
 # Sub-string divisibility
 
 from itertools import permutations

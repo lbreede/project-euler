@@ -1,18 +1,8 @@
-#
-# Solution to Project Euler Problem 39
-# Copyright (c) Lennart Breede. All rights reserved.
-# https://github.com/lbreede/project-euler
-#
-
-# Integer right triangles
-
 from math import sqrt
 
 a = 20
 b = 48
 c = 52
-
-# print (120 == a + b + sqrt(a*a + b*b))
 
 number = 0
 most_solutions = 0

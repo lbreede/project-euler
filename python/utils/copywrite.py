@@ -1,8 +1,10 @@
 import os
 
-COPYWRITE = "#\n\
+COPYWRITE = "\
+#\n\
 # Solution to Project Euler Problem {}\n\
 # Copyright (c) Lennart Breede. All rights reserved.\n\
+#\n\
 # https://github.com/lbreede/project-euler\n\
 #\n\n"
 
@@ -15,7 +17,7 @@ for i in range(2, 100):
 			temp = f.read()
 		
 		firsts = set()
-		for line in temp.split("\n")[:5]:
+		for line in temp.split("\n")[:6]:
 			if len(line) != 0:
 				firsts.add(line[0])
 			else:

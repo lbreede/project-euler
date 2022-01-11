@@ -1,9 +1,3 @@
-#
-# Solution to Project Euler Problem 2
-# Copyright (c) Lennart Breede. All rights reserved.
-# https://github.com/lbreede/project-euler
-#
-
 a = 1
 b = 2
 

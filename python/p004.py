@@ -1,9 +1,3 @@
-#
-# Solution to Project Euler Problem 4
-# Copyright (c) Lennart Breede. All rights reserved.
-# https://github.com/lbreede/project-euler
-#
-
 def main():
     start = 1000
     i = 0

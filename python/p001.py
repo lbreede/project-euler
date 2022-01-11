@@ -1,9 +1,3 @@
-#
-# Solution to Project Euler Problem 1
-# Copyright (c) Lennart Breede. All rights reserved.
-# https://github.com/lbreede/project-euler
-#
-
 def find_multiples(inputdata):
     multiples = []
     for x in range(1, inputdata):

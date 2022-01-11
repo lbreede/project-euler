@@ -1,9 +1,3 @@
-#
-# Solution to Project Euler Problem 6
-# Copyright (c) Lennart Breede. All rights reserved.
-# https://github.com/lbreede/project-euler
-#
-
 def main():
 	max_ = 100
 
