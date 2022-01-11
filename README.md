@@ -1,3 +1,5 @@
-# project-euler
-My solutions for the problems on Project Euler .net
+# Project Euler 
+
+## Python solutions by Lennart Breede
+
 ![](https://projecteuler.net/profile/lbreede.png)
