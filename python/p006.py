@@ -1,21 +1,24 @@
 def main():
-	max_ = 100
+    max_ = 100
 
-	return squareOfSum(max_) - sumOfSquares(max_)
+    return squareOfSum(max_) - sumOfSquares(max_)
+
 
 def sumOfSquares(max_):
-	result = 0
-	for x in range(1, max_+1):
-		result += x * x
+    result = 0
+    for x in range(1, max_ + 1):
+        result += x * x
 
-	return result
+    return result
+
 
 def squareOfSum(max_):
-	result = 0
-	for x in range(1, max_+1):
-		result += x
+    result = 0
+    for x in range(1, max_ + 1):
+        result += x
 
-	return result * result
+    return result * result
+
 
 if __name__ == "__main__":
-	print(main())
+    print(main())

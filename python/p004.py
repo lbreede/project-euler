@@ -1,6 +1,5 @@
 def main():
     start = 1000
-    i = 0
 
     largestPalindrome = 0
 
@@ -16,8 +15,9 @@ def main():
                 if mirrorAndCompare(front, back):
                     if c > largestPalindrome:
                         largestPalindrome = c
-    
+
     print(largestPalindrome)
+
 
 def splitEvenString(string):
     length = len(string)
@@ -25,15 +25,17 @@ def splitEvenString(string):
     if length % 2 != 0:
         raise ValueError("Uneven amount of letters!")
 
-    front = string[:length//2]
-    back = string[length//2:]
+    front = string[:length // 2]
+    back = string[length // 2:]
     return front, back
+
 
 def mirrorAndCompare(front, back):
     if int(front) == int(back[::-1]):
         return True
     else:
         return False
-            
+
+
 if __name__ == "__main__":
     main()

@@ -6,5 +6,6 @@ def find_multiples(inputdata):
 
     return sum(multiples)
 
+
 sum_of_multiples = find_multiples(1000)
 print(sum_of_multiples)

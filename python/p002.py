@@ -9,5 +9,5 @@ while b < 4000000:
     c = a + b
     a = b
     b = c
-    
+
 print(result)

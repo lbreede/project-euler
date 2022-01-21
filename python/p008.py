@@ -30,9 +30,9 @@ bracketSize = 13
 largetsProduct = 0
 
 for x in range(numChars - bracketSize + 1):
-	bracket = [int(y) for y in list(numAsStr[x:x+bracketSize])]
-	product = prod(bracket)
-	if product > largetsProduct:
-		largetsProduct = product
+    bracket = [int(y) for y in list(numAsStr[x:x + bracketSize])]
+    product = prod(bracket)
+    if product > largetsProduct:
+        largetsProduct = product
 
 print(largetsProduct)
