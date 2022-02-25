@@ -18,5 +18,8 @@ for num in trange(1, 1000000):
         longest_chain = i
         starting_number = num
 
-print("The number {} has a chain with a length of {}".format(starting_number,
-                                                             longest_chain))
+print(
+    "The number {} has a chain with a length of {}".format(
+        starting_number, longest_chain
+    )
+)

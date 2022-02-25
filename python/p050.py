@@ -23,4 +23,4 @@ print(lst)
 # doesn't necessarily start at 2!!!
 a = 21
 b = 3
-print(sum(primes[b:a + b]), len(primes[b:a + b]), primes[b:a + b])
+print(sum(primes[b : a + b]), len(primes[b : a + b]), primes[b : a + b])

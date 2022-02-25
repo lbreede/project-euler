@@ -24,7 +24,7 @@ def check_properties(num):
 
 nums = "1234567890"
 permutations = list(permutations(nums))
-permutations = [''.join(permutation) for permutation in permutations]
+permutations = ["".join(permutation) for permutation in permutations]
 
 result = 0
 

@@ -25,10 +25,10 @@ def main():
     terms = set()
     for a in range(2, mx + 1):
         for b in range(2, mx + 1):
-            terms.add(a**b)
+            terms.add(a ** b)
 
     print(len(terms))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

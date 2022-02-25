@@ -3,7 +3,7 @@ ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 with open("p022_names.txt") as f:
     names = f.read().split(",")
 
-names = [x.replace("\"", "") for x in names]
+names = [x.replace('"', "") for x in names]
 names.sort()
 
 total = 0

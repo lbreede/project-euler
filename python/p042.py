@@ -53,7 +53,7 @@ def word_value_dict(lst):
 
 def main():
     with open("p042_words.txt") as f:
-        word_list = [x.replace('"', '') for x in f.read().split(",")]
+        word_list = [x.replace('"', "") for x in f.read().split(",")]
 
     word_dict = word_value_dict(word_list)
     limit = max(word_dict.values())
@@ -67,5 +67,5 @@ def main():
     print(i, "words are triangle words.")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

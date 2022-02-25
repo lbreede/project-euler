@@ -1,5 +1,6 @@
 # Factorial digit sum
 
+
 def fac(n):
     f = 1
     for i in range(n):

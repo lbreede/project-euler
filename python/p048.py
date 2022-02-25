@@ -1,7 +1,7 @@
 def self_powers(start, end):
     a = 0
     for i in range(start, end + 1):
-        a += i**i
+        a += i ** i
     return a
 
 

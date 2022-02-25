@@ -33,5 +33,5 @@ def main():
     print(len(circular_primes))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

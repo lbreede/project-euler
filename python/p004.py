@@ -25,8 +25,8 @@ def splitEvenString(string):
     if length % 2 != 0:
         raise ValueError("Uneven amount of letters!")
 
-    front = string[:length // 2]
-    back = string[length // 2:]
+    front = string[: length // 2]
+    back = string[length // 2 :]
     return front, back
 
 

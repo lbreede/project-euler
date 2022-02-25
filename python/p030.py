@@ -4,7 +4,7 @@ for i in range(2, 200000):
     fifth = 0
 
     for d in digits:
-        fifth += d**5
+        fifth += d ** 5
 
     if i == fifth:
         result += i
