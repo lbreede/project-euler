@@ -32,16 +32,16 @@ def triangle(n):
     return int(0.5 * n * n + 0.5 * n)
 
 
-i = 1
-while True:
-    t = triangle(i)
-    divs = 1
-
-    for j in range(1, t // 2 + 1):
-        if t % j == 0:
-            divs += 1
-
-    print(t, divs)
-    if divs > 500:
-        break
+i = 0
+ndivs = 0
+while ndivs <= 500:
     i += 1
+    tn = triangle(i)
+    ndivs = 0
+    for j in range(1, tn + 1):
+        if tn % j == 0:
+            ndivs += 1
+    print(i, tn, ndivs)
+
+
+print(tn)
