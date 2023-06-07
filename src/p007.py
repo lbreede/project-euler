@@ -10,5 +10,5 @@ while True:
             break
     i += 1
 
-print("Project Euler - Sum Square Difference (Problem 7)")
+print("Project Euler - 10001st Prime (Problem 7)")
 print(f"Answer: {result:,}")
