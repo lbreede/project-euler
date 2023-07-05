@@ -128,5 +128,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Rust/Cargo
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
 # Custom
 .DS_Store
