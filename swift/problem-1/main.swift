@@ -1,8 +1,8 @@
 var sum = 0
 
-for i in 1..<1000 {
-    if i % 3 == 0 || i % 5 == 0 {
-        sum += i
+for index in 1..<1000 {
+    if index % 3 == 0 || index % 5 == 0 {
+        sum += index
     }
 }
 
